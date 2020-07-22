@@ -4,7 +4,7 @@
 
 ## 🔭 I’m currently working on
 	
-#### Research Intern
+#### Research Internship
 
  - collaboration with IIT Hyderabad and IIIT Hyderabad
  - domain adaptation in the context of semantic segmentation 
