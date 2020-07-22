@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I'm a CSE undergrad at IIT Hyderabad;
+
+- 🔭 I’m currently working on
+	- building a [personal website: WIP](https://www.google.com/search?q=what+is+WIP) 
+	- getting started with writing again: the right way this time
+		- messed up real good the first time(I'd rather not talk about it)
+	- reading a lot: I'm a man of varied interests:
+		- mathematics, pokemon, bushido, metaphysics, and pretty much anything
+			- I tend to have a generic say in everything
+  
+
 <!--
 **rajp152k/rajp152k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
