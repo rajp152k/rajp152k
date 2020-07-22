@@ -3,6 +3,7 @@
 I'm a CSE undergrad at IIT Hyderabad;
 
 - 🔭 I’m currently working on
+	- (Research Intern : collaboration with IIT Hyderabad and IIIT Hyderabad) domain adaptation in the context of semantic segmentation(in the context of autonomous driving) 
 	- building a [personal website: WIP](https://www.google.com/search?q=what+is+WIP) 
 	- getting started with writing again: the right way this time
 		- messed up real good the first time(I'd rather not talk about it)
