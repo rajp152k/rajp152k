@@ -1,15 +1,24 @@
 ### Hi there 👋
 
-I'm a CSE undergrad at IIT Hyderabad;
+### I'm a CSE undergrad at IIT Hyderabad;
 
-- 🔭 I’m currently working on
-	- (Research Intern : collaboration with IIT Hyderabad and IIIT Hyderabad) domain adaptation in the context of semantic segmentation(in the context of autonomous driving) 
-	- building a [personal website: WIP](https://www.google.com/search?q=what+is+WIP) 
-	- getting started with writing again: the right way this time
-		- messed up real good the first time(I'd rather not talk about it)
-	- reading a lot: I'm a man of varied interests:
-		- mathematics, pokemon, bushido, metaphysics, and pretty much anything
-			- I tend to have a generic say in everything
+## 🔭 I’m currently working on
+	
+#### Research Intern
+
+ - collaboration with IIT Hyderabad and IIIT Hyderabad
+ - domain adaptation in the context of semantic segmentation 
+ - working specifically on improving performance with ridiculously large domain shifts : 
+ 	- [ Indian driving datasets ](https://idd.insaan.iiit.ac.in/)
+	
+#### Personal ventures
+
+- building a [personal website: WIP](https://www.google.com/search?q=what+is+WIP) 
+- getting started with writing again: the right way this time
+	- messed up real good the first time(I'd rather not talk about it)
+- reading a lot: I'm a man of varied interests:
+	- mathematics, pokemon, bushido, metaphysics, and pretty much anything
+		- I tend to have a generic say in everything
   
 
 <!--
