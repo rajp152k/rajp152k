@@ -18,7 +18,7 @@
 	- messed up real good the first time(I'd rather not talk about it)
 - reading a lot: I'm a man of varied interests:
 	- mathematics, pokemon, bushido, metaphysics, and pretty much anything
-		- I tend to have a generic say in everything
+		- I tend to have (at the very least) a generic say in everything
   
 
 <!--
