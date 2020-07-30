@@ -13,7 +13,8 @@
 	
 #### Personal ventures
 
-- building a [personal website: WIP](https://www.google.com/search?q=what+is+WIP) 
+- building a [personal website: WIP](https://rajpati.dev)
+	 - base site ready, SSL certificate on its way, site won't be accessible for upto 24 hours
 - getting started with writing again: the right way this time
 	- messed up real good the first time(I'd rather not talk about it)
 - reading a lot: I'm a man of varied interests:
