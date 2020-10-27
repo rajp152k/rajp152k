@@ -1,19 +1,18 @@
-### Hi there 👋
+### CSE undergrad, IIT Hyderabad
 
-### I'm a CSE undergrad at IIT Hyderabad;
-
-## 🔭 I’m currently working on
 	
-#### Research Internship
-
- - collaboration with IIT Hyderabad and IIIT Hyderabad
- - domain adaptation in the context of semantic segmentation 
- - working specifically on improving performance with ridiculously large domain shifts : 
- 	- [ Indian driving datasets ](https://idd.insaan.iiit.ac.in/)
+#### Research Interests
+ - computer vision:
+ 	- semgentation
+	- object detection
+ - Transfer Learning
+ 	- domain adaptation
+	- task transfer
 	
-#### Personal ventures
+	
+	
+### [personal website](https://rajpatil.dev)
 
-- building a [personal website: WIP](https://rajpatil.dev)
 - getting started with writing again: the right way this time
 	- messed up real good the first time(I'd rather not talk about it)
 - avid reader; man of varied interests:
