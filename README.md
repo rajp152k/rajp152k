@@ -13,8 +13,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajp152k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 -->
-[![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajp152k)](https://github.com/anuraghazra/github-readme-stats)
 
+# Hey ..
+
+## I Like : 
+
+### writing :   
+ - technically @ https://thebitmage.com
+ - philosophically @ https://cognware.com
+
+### Rambling 
+#### Technically..
+ - most of it is evangelizing Emacs and Lisp    
+ - https://youtube.com/@The-Bit-Mage
+
+#### Philosophically..
+ - my Sanity Checks
+ - SaaS (Serendipity as a Service)
+   - https://www.youtube.com/@CognWare
+   - https://cognware.com/posts/saas/saas/
+
+## Work Corpus :
+ - https://thebitmage.com/resume/
